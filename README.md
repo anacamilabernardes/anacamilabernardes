@@ -22,20 +22,6 @@
 
 ---
 
-## Executive Profile
-
-I lead Applied AI systems from strategy and architecture through engineering, evaluation, production and governance.
-
-My background combines 13+ years across data, analytics and AI with hands-on technical leadership in GenAI, Agentic AI, production ML, MLOps, cloud data platforms and AI governance.
-
-I work particularly well in complex and high-accountability environments where AI systems need to deliver measurable operational value while remaining observable, auditable and governable.
-
-My work spans the full AI lifecycle:
-
-**portfolio strategy → architecture → data → models → evaluation → deployment → observability → governance → business value**
-
----
-
 ## Selected Impact
 
 | Area | Selected outcome |
@@ -45,6 +31,16 @@ My work spans the full AI lifecycle:
 | **Agentic AI / RAG** | Improved correct-answer performance from **60% to 82%** on the same expert-validated evaluation set through retrieval, grounding and evaluation improvements |
 | **Operational AI** | Predictive analytics associated with **35% lower port congestion** |
 | **Predictive Maintenance** | Delivered **18% lower unplanned downtime** across infrastructure asset use cases |
+
+---
+
+## Executive Profile
+
+I lead Applied AI systems from strategy and architecture through engineering, evaluation, production and governance.
+
+My background combines 13+ years across data, analytics and AI with hands-on technical leadership in GenAI, Agentic AI, production ML, MLOps and AI governance, particularly in complex and high-accountability environments.
+
+**portfolio strategy → architecture → data → models → evaluation → deployment → observability → governance → business value**
 
 ---
 
