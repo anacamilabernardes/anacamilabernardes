@@ -17,7 +17,7 @@
   ·
   Global Remote
   ·
-  Relocation Considered
+  Open to Relocation
 </p>
 
 ---
@@ -26,9 +26,9 @@
 
 | Area | Selected outcome |
 |---|---|
-| **AI Portfolio Leadership** | Authored and lead the technical structuring of a 24-month Data & AI portfolio spanning **15 strategic initiatives** with a **R$12.7M reference budget** |
-| **Production NLP** | Deployed BERT-based document intelligence processing **10,000+ operational reports per month** with confidence thresholds and human review |
+| **AI Portfolio Leadership** | Authored and currently lead the technical structuring of a 24-month Data & AI portfolio spanning **15 strategic initiatives** with a **R$12.7M reference budget** |
 | **Agentic AI / RAG** | Improved correct-answer performance from **60% to 82%** on the same expert-validated evaluation set through retrieval, grounding and evaluation improvements |
+| **Production NLP** | Deployed BERT-based document intelligence processing **10,000+ operational reports per month** with confidence thresholds and human review |
 | **Operational AI** | Predictive analytics associated with **35% lower port congestion** |
 | **Predictive Maintenance** | Delivered **18% lower unplanned downtime** across infrastructure asset use cases |
 
