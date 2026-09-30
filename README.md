@@ -13,9 +13,11 @@
   ·
   <a href="mailto:camila.mbernardes@gmail.com">Email</a>
   ·
-  Brasília, Brazil · UTC-3
+  Based in Brasília, Brazil · UTC-3
   ·
-  Open to global remote opportunities
+  Global Remote
+  ·
+  Relocation Considered
 </p>
 
 ---
